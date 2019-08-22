@@ -1,0 +1,14 @@
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\bin\Debug\netcoreapp2.1\Microsoft.EntityFrameworkCore.xml
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+C:\Users\Alunos\Desktop\entra21-ws-master\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
